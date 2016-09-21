@@ -1,0 +1,16 @@
+{
+  "name": "meanhymnlist",
+  "version": "1.0.0",
+  "description": "Hymn list with Mean Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Lar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongojs": "^2.4.0"
+  }
+}
